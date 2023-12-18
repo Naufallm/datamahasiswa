@@ -10,4 +10,5 @@ Apabila ada inputan yang tidak sesuai maka akan menampilkan alert yang mempering
 untuk memasukkan inputan yang benar.
 
 ## CONTOH OUTPUT
+![proglan1](https://github.com/Naufallm/datamahasiswa/assets/130893000/ec8f0017-d686-416c-bc1c-12b9af8957c6)
 
